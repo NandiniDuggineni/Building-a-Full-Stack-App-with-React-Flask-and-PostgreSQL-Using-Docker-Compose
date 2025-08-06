@@ -49,4 +49,5 @@ If you want, I can also share the full source code — just let me know!
 
 Follow me for more dev projects! 🚀
 Got questions or suggestions? Drop a comment below!
+You can read the detailed article: https://nandiniduggineni.hashnode.dev/building-a-full-stack-app-with-react-flask-and-postgresql-using-docker-compose
 
